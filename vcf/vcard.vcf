@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+BDAY;VALUE=DATE:2003-08-20 /ngày sinh/
+NOTE: 
+URL;CHARSET=UTF-8:
+FN;CHARSET=UTF-8:Nguyễn Hữu Thiện
+N;CHARSET=UTF-8:;Thiện;;;
+ORG;CHARSET=UTF-8:University of Information Technology VNU-HCM;
+TEL;TYPE=CELL:0327584410
+Email;TYPE=Email:Thienng2003@gmail.com
+END:VCARD
